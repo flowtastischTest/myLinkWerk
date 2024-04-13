@@ -17,7 +17,7 @@ jobs:
     - name: Use Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: v21.x
+        node-version: v20.x
     - run: npm install
     - run: npm install typescript -g
     - run: npm install -g @angular/cli
