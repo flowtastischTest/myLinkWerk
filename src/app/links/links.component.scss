@@ -1,0 +1,15 @@
+h1 {
+    width: fit-content !important
+}
+.linksCard {
+    max-width: 460px;
+    .card-body {
+        div {
+            width: fit-content !important;
+        }
+    }
+}
+
+.userImg {
+    max-width: 160px;
+}
